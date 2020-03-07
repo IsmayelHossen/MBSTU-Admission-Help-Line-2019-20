@@ -1,0 +1,448 @@
+body {
+	margin: 0px;
+	background:#DEDEDE;
+	font-family: 'Acme';
+
+}
+.top{
+background:#DEDEDE;
+	
+}
+.jumbotron {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.head-logo{
+	background: red;
+}
+.img-rounded {
+	width: 250px;
+	height: 226px;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+.col-md-12 h2 {
+	font-family: 'Acme';
+	text-align: center;
+	text-shadow: 1px 1px 2px #897b7b;
+	color: #000;
+}
+.panel {
+	margin-bottom: 5px;
+	background-color: #d7d7d7;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+	text-align: center;
+	margin-top: -27px;
+	font-family: 'Acme';
+	text-shadow: 1px 1px 2px #897b7b;
+	olor: #27483e;
+}
+.well {
+	min-height: 20px;
+	margin-bottom: 30px;
+	background-color: #e7e1e1;
+	border: 1px solid #e3e3e3;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+.well.seat-result {
+	height: 82px;
+}
+.footer {
+	
+	text-align: center;
+	font-family: 'Acme';
+	padding-top: 50px;
+	text-shadow: 1px 1px 2px #897b7b;
+	color: #27483e;
+	
+}
+.seat-plan{
+	text-align: center;
+	
+
+}
+.seat-plan h2 {
+	font-size: 30px;
+	text-align: center;
+	color: #238065;
+	text-shadow: 1px 1px 2px #897b7b;
+	padding-bottom: 20px;
+}
+label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 26px;
+}
+input[type="text"] {
+	padding: 20px 16px;
+	margin: 12px 0;
+	box-sizing: border-box;
+}
+
+ input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding:11px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding:11px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button[type=button]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding:11px 16px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.notice{
+
+}
+.backtohome label a {
+	
+}
+.helpline {
+	background: #d4d7e1;
+	word-spacing: 4px;
+	margin-bottom: 6px;
+}
+.helpline h4{
+	 margin-top:30px;
+}
+.helpline-thakerbebbostha {
+	background: #cdcfd7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.helpline-thakerbebbostha h2{
+	 text-align: center;
+	 padding-bottom:10px;
+	
+	 
+
+}
+.helpline-thakerbebbostha p{
+	font-size:18px;
+
+}
+/*about */
+.about h2{
+	font-size: 30px;
+	text-align: center;
+	color: #238065;
+	text-shadow: 1px 1px 2px #897b7b;
+	padding-bottom: 20px;
+
+}
+
+.aboutfooter {
+	background: #b1d7a0;
+	height: 81px;
+	font-family: 'Acme';
+}
+.aboutfooter h3{
+	 text-align: center;
+	 padding-top: 20px;
+	 text-shadow: 1px 1px 2px #897b7b;
+}
+.aboutfooter h4{
+	 text-align: center;
+	 text-shadow: 1px 1px 2px #897b7b;
+}
+.about1:hover {
+	background: #dff5f4;
+	border-radius: 6px;
+}
+.about1 h4:hover {
+	color: red;
+	/* background: #4CAF50; */
+
+	transition: .2s;
+}
+.about2 h4:hover {
+	color: #5c9f96;
+	/* background: #4CAF50; */
+	/* padding: 2px 6px; */
+	transition: .2s;
+}
+.about3 h4:hover {
+	color: #895052;
+	/* background: #4CAF50; */
+	/* padding: 2px 6px; */
+	transition: .2s;
+}
+.about1 h4,.about2 h4,.about3 h4{
+	padding-bottom:5px;
+	padding-top:5px;
+}
+
+.modal-content {
+	position: relative;
+	background-color: #fff;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	border: 1px solid #999;
+	border: 1px solid rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	outline: 0;
+	-webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+	box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+	width: 879px;
+}
+p{
+	font-size: 16px;
+}
+
+#mySidenav{
+	
+}
+#mySidenav a {
+	position: absolute;
+	left: -64px;
+	transition: 0.3s;
+	padding: 15px;
+	width: 100px;
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	border-radius: 0 5px 5px 0;
+	margin-top: 430px;
+	height: 70px;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 20px;
+    background-color: #31B0D5;
+}
+
+#blog {
+    top: 90px;
+    background-color: #00D353;
+}
+#apps {
+    top: 160px;
+    background-color: #e17f1c;
+}
+
+.about1 h4:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+.about2 h4:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+.modal-content {
+	position: relative;
+	background-color: #fff;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	border: 1px solid #999;
+	border: 1px solid rgba(0, 0, 0, .2);
+	border-radius: 6px;
+	outline: 0;
+	-webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+	box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+	max-width:100%;
+}
+.abcd a{
+	 font-family: 'Acme';background-color:DodgerBlue;
+	  border: none;
+	  color: white;
+	   padding: 12px 30px;
+	    cursor: pointer; font-size: 20px;
+	    text-decoration: none;
+}
+.abcd a:hover {
+    background-color: RoyalBlue;
+}
+/*   Live Admission Process */
+
+.lap {
+	padding: 5px 5px;
+	text-align: center;
+}
+.lap a {
+	padding: 10px 20px;
+	font-size: 17px;
+	font-family: 'Acme';
+}
+  * {box-sizing: border-box;}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 500px;
+  padding: 10px;
+  background-color: #e3dfdf;
+  height: 500px;
+}
+
+/* Full-width textarea */
+.showmessage{
+  margin-right: -15px;
+  margin-left: -15px;
+  max-width: 490px;
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+@media(max-width:490px){
+   .open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom:0px;
+  left:5px;
+  max-width:300px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0px;
+  
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width:500px;
+  padding: 10px;
+  background-color: #e3dfdf;
+  height:500px;
+}
+
+/* Full-width textarea */
+.showmessage{
+  margin-right: -15px;
+  margin-left: -15px;
+  max-width: 490px;
+  max-height: 250px;
+  overflow-y: scroll;
+}
+.form-container h2 {
+ 
+  background: #3BB99F;
+  /* padding-left: 12px; */
+  text-align: center;
+  padding: 6px 7px;
+  color: #ddd;
+  margin-top: -13px;
+  /* padding-right: 20px; */
+  margin-right: -12px;
+  margin-left: -12px;
+
+  font-size:19px;
+}
+
+}
+ .form-container .chath5 {
+  font-size: 14px;
+  text-align: center;
+  font-weight: 300px;
+  text-transform: uppercase;
+  font-family: 'ACME';
+  background: #ddd;
+  color: #586775;
+}
+
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/send button */
+.form-container .btn {
+  background-color:#12A656;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+.form-container h2 {
+  background: #3BB99F;
+  /* padding-left: 12px; */
+  text-align: center;
+  padding: 6px 7px;
+  color: #ddd;
+  margin-top: -13px;
+  /* padding-right: 20px; */
+  margin-right: -12px;
+  margin-left: -12px;
+}
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+  background: #25B768;
+}
+.marquee img{
+  width:100%;
+  height:auto;
+  max-width:200px;
+  min-height:200px;
+}
