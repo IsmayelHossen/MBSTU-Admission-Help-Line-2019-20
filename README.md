@@ -8,10 +8,15 @@ After Login Redirect to home page(Include Features,Contact number from differnet
 ![comingprocess](https://user-images.githubusercontent.com/55520812/97099889-2e35bf80-16b8-11eb-88c4-00c2b251d220.JPG)
 ![previous result](https://user-images.githubusercontent.com/55520812/97099892-32fa7380-16b8-11eb-8e83-06312518ea91.JPG)
 ![number distribution](https://user-images.githubusercontent.com/55520812/97099895-35f56400-16b8-11eb-8db9-8d422e8e6de6.JPG)
+
 Seat Plan
+
 ![seatplan](https://user-images.githubusercontent.com/55520812/97099926-8bca0c00-16b8-11eb-8bc8-7fd6e63aec30.JPG)
 Result
 ![result](https://user-images.githubusercontent.com/55520812/97099929-95ec0a80-16b8-11eb-88e2-5c6c616447ed.JPG)
 Live Admission Update(Vacancy,fullfil)
 ![Live Admission Update](https://user-images.githubusercontent.com/55520812/97099988-3cd0a680-16b9-11eb-8743-8793b511f095.JPG)
+Developer
+![developer](https://user-images.githubusercontent.com/55520812/97100035-bbc5df00-16b9-11eb-917e-de90ed39bdd8.JPG)
+
 
